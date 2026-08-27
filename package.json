@@ -1,0 +1,15 @@
+{
+  "name": "connect-four",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~6.0.3",
+    "vite": "^8.0.16"
+  }
+}
